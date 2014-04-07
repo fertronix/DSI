@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("Mi segundo commit");
-		System.out.println("lalla");
+		System.out.println("segundo commit");
 	}
 
 }
